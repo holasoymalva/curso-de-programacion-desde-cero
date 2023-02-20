@@ -24,6 +24,14 @@
   * Desarrollo de aplicaciones móviles básicas
   * Introducción al desarrollo de juegos
   * Programación avanzada en lenguajes de alto nivel (patrones de diseño, concurrencia, manejo de errores, etc.)
+
+## Módulo 1: Introducción a la programación
+
+## Módulo 2: Desarrollo de aplicaciones básicas
+
+## Módulo 3: Bases de datos y almacenamiento de información
+
+## Módulo 4: Desarrollo de aplicaciones avanzadas
   
 ## Autor
 Malvabombom
