@@ -2,7 +2,7 @@
 
 ## Indice
 
-* Módulo 1: Introducción a la programación
+* [Módulo 1: Introducción a la programación](#módulo-1-introducción-a-la-programación)
   * Introducción a la programación y la lógica
   * Variables, tipos de datos y operaciones básicas
   * Estructuras de control de flujo (if/else, while, for)
