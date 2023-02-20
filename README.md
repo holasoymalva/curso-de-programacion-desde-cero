@@ -57,5 +57,5 @@ Thank you for reading. <3
 [as]: https://malvabombom.xyz/
 [sass]: https://sass-lang.com
 [imgl]: https://imagesloaded.desandro.com
-[ig-link]: https://www.instagram.com/malvabombom/
-[tt-link]: https://www.tiktok.com/@malvabombom
+[ig-link]: https://www.instagram.com/holasoymalva/
+[tt-link]: https://www.tiktok.com/@holasoymalva
