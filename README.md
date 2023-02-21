@@ -2,11 +2,28 @@
 
 ## Indice
 
-* [Módulo 1: Introducción a la programación](#módulo-1-introducción-a-la-programación)
+* [Módulo 0: Introducción a la programación con Scratch](#módulo-1-introducción-a-la-programación)
+  * Conceptos basicos de programación
+  * Pensamiento Computacional 
+  * Primeros pasos con Scratch
+  * Nuestro primer programa en Scratch  
+* [Módulo 1: Introducción a la programación con C++](#módulo-1-introducción-a-la-programación-con-c++)
+  * Introduccion a C, C++ y C#
   * Introducción a la programación y la lógica
   * Variables, tipos de datos y operaciones básicas
   * Estructuras de control de flujo (if/else, while, for)
   * Funciones y métodos
+  * Estructuras de datos
+  * Algoritmos
+  * Programación orientada a objetos
+* [Módulo 1: Introducción a la programación con Python](#módulo-1-introducción-a-la-programación-con-python)
+  * Introduccion a Python
+  * Introducción a la programación y la lógica
+  * Variables, tipos de datos y operaciones básicas
+  * Estructuras de control de flujo (if/else, while, for)
+  * Funciones y métodos
+  * Estructuras de datos
+  * Algoritmos
   * Programación orientada a objetos
 * [Módulo 2: Desarrollo de aplicaciones básicas](#módulo-2-desarrollo-de-aplicaciones-básicas)
   * Desarrollo de programas para la línea de comandos
@@ -24,14 +41,6 @@
   * Desarrollo de aplicaciones móviles básicas
   * Introducción al desarrollo de juegos
   * Programación avanzada en lenguajes de alto nivel (patrones de diseño, concurrencia, manejo de errores, etc.)
-
-## Módulo 1: Introducción a la programación
-
-## Módulo 2: Desarrollo de aplicaciones básicas
-
-## Módulo 3: Bases de datos y almacenamiento de información
-
-## Módulo 4: Desarrollo de aplicaciones avanzadas
   
 ## Author
 
