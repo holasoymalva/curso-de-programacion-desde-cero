@@ -7,7 +7,7 @@
   * Pensamiento Computacional 
   * Primeros pasos con Scratch
   * Nuestro primer programa en Scratch  
-* [Módulo 1: Introducción a la programación con C++](#módulo-1-introducción-a-la-programación-con-c++)
+* [Módulo 1-A: Introducción a la programación con C++](#módulo-1-introducción-a-la-programación-con-c++)
   * Introduccion a C, C++ y C#
   * Introducción a la programación y la lógica
   * Variables, tipos de datos y operaciones básicas
@@ -16,7 +16,7 @@
   * Estructuras de datos
   * Algoritmos
   * Programación orientada a objetos
-* [Módulo 1: Introducción a la programación con Python](#módulo-1-introducción-a-la-programación-con-python)
+* [Módulo 1-B: Introducción a la programación con Python](#módulo-1-introducción-a-la-programación-con-python)
   * Introduccion a Python
   * Introducción a la programación y la lógica
   * Variables, tipos de datos y operaciones básicas
